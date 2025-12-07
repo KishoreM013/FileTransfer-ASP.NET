@@ -1,0 +1,35 @@
+K:\ASP.net learn\bin\Debug\net10.0\appsettings.Development.json
+K:\ASP.net learn\bin\Debug\net10.0\appsettings.json
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.staticwebassets.runtime.json
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.staticwebassets.endpoints.json
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.exe
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.deps.json
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.runtimeconfig.json
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.dll
+K:\ASP.net learn\bin\Debug\net10.0\ASP.net learn.pdb
+K:\ASP.net learn\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+K:\ASP.net learn\bin\Debug\net10.0\Microsoft.OpenApi.dll
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.csproj.AssemblyReference.cache
+K:\ASP.net learn\obj\Debug\net10.0\rpswa.dswa.cache.json
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.GeneratedMSBuildEditorConfig.editorconfig
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.AssemblyInfoInputs.cache
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.AssemblyInfo.cs
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.csproj.CoreCompileInputs.cache
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.MvcApplicationPartsAssemblyInfo.cs
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.MvcApplicationPartsAssemblyInfo.cache
+K:\ASP.net learn\obj\Debug\net10.0\rjimswa.dswa.cache.json
+K:\ASP.net learn\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+K:\ASP.net learn\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+K:\ASP.net learn\obj\Debug\net10.0\scopedcss\bundle\ASP.net learn.styles.css
+K:\ASP.net learn\obj\Debug\net10.0\compressed\95r01kzyfd-{0}-1plqgeh8zu-1plqgeh8zu.gz
+K:\ASP.net learn\obj\Debug\net10.0\staticwebassets.build.json
+K:\ASP.net learn\obj\Debug\net10.0\staticwebassets.build.json.cache
+K:\ASP.net learn\obj\Debug\net10.0\staticwebassets.development.json
+K:\ASP.net learn\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+K:\ASP.net learn\obj\Debug\net10.0\swae.build.ex.cache
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net .247CCCE3.Up2Date
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.dll
+K:\ASP.net learn\obj\Debug\net10.0\refint\ASP.net learn.dll
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.pdb
+K:\ASP.net learn\obj\Debug\net10.0\ASP.net learn.genruntimeconfig.cache
+K:\ASP.net learn\obj\Debug\net10.0\ref\ASP.net learn.dll

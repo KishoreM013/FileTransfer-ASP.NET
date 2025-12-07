@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <input type="file" id="myFile" />
+    
+    <button onclick="sendTheFile()">SEND</button>
+    
+    <div id="fileList"></div>
+
+    <script>
+        // 4. The JavaScript Logic
+        async function sendTheFile() {
+            // A. Grab the file from the input box
+            let fileInput = document.getElementById('myFile');
+            let actualFile = fileInput.files[0];
+
+            // B. Pack it into a virtual "envelope" (FormData)
+            let envelope = new FormData();
+            envelope.append('file', actualFile);
+
+            // C. Send it to the C# Server
+            await fetch('/upload', { method: 'POST', body: envelope });
+            
+            // D. Refresh the list
+            loadTheList();
+        }
+
+        async function loadTheList() {
+            // E. Ask server for list of files
+            let response = await fetch('/list');
+            let fileNames = await response.json();
+
+            // F. Convert names into clickable links
+            let htmlLinks = fileNames.map(name => 
+                `<a href="/files/${name}">${name}</a><br>`
+            ).join('');
+
+            // G. Put them on the screen
+            document.getElementById('fileList').innerHTML = htmlLinks;
+        }
+
+        // Run this immediately when page loads
+        loadTheList();
+    </script>
+</body>
+</html>
